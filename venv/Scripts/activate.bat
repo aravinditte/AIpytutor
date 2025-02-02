@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=D:\New folder (2)\AIpytutor\venv
+set VIRTUAL_ENV=D:\New folder (3)\AIpytutor\venv
 
 if not defined PROMPT set PROMPT=$P$G
 
